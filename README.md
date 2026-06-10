@@ -1,5 +1,3 @@
-
-
 <p align="left"># Hi there 👋<br><br>I'm Elias, a Computer Engineering student and developer passionate about building useful applications.<br><br>## 🛠️ Tech Stack<br>- React Native<br>- Expo<br>- JavaScript<br>- Python<br>- HTML<br>- CSS<br>- Git & GitHub<br>-React</p>
 
 ###

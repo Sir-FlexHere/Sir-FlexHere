@@ -1,6 +1,10 @@
 <p align="left"># Hi there 👋<br><br>I'm Elias, a Computer Engineering student and developer passionate about building useful applications.<br><br>## 🛠️ Tech Stack<br>- React Native<br>- Expo<br>- JavaScript<br>- Python<br>- HTML<br>- CSS<br>- Git & GitHub<br>-React</p>
 
+###
 
+<h1 align="left">Skills</h1>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
